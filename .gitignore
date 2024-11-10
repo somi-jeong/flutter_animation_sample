@@ -1,0 +1,25 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+build/
+*.lock
+**/GeneratedPluginRegistrant.*
+
+# iOS
+ios/Pods
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
